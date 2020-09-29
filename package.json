@@ -1,54 +1,29 @@
 {
-  "_from": "mastermind",
-  "_id": "mastermind@1.0.0",
-  "_inBundle": false,
-  "_integrity": "sha512-68sHqlGTF/dZLHYoarmFAd4WJjJpokibQNw7xRNqpKLOt1gDqKcyhXWzxhUqKDyTN/ZHE4MrdGMJcVWkxpPy9A==",
-  "_location": "/mastermind",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "mastermind",
-    "name": "mastermind",
-    "escapedName": "mastermind",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "",
-  "_shasum": "",
-  "_spec": "mastermind",
-  "_where": "C:\\Users\\Lenovo\\Desktop\\MasterMind",
-  "author": {
-    "name": "NyNu"
-  },
-  "bundleDependencies": false,
-  "deprecated": false,
-  "description": "An Anime/Hentai Image API which simplifies how you fetch random images from the local JSON, fast and reliable!",
-  "keywords": [
-    "nsfw",
-    "hentai",
-    "anime",
-    "images",
-    "wallpaper",
-    "discord",
-    "neko",
-    "cute",
-    "as",
-    "fubuki"
-  ],
-  "license": "MIT",
-  "main": "nynu.js",
   "name": "mastermind",
-  "repository": {
-    "type": "git"
+  "version": "1.0.0",
+  "description": "Bardzo proste i szybkie api które pozyskuje zdjęcia z plikow JSON !",
+  "main": "nynu.js",
+  "directories": {
+    "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NyNu2137/mastermindapi.git"
+  },
+  "keywords": [
+    "hentai",
+    "anime",
+    "utility",
+    "nsfw",
+    "porn"
+  ],
+  "author": "NyNu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NyNu2137/mastermindapi/issues"
+  },
+  "homepage": "https://github.com/NyNu2137/mastermindapi#readme"
 }
