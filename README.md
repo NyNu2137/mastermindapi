@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://discord.gg/qrbDHHJ"><img src="https://images-ext-2.discordapp.net/external/LpIPICvka13Whq1CVvLPgQhMYe1q84p3zkyUBbLSdGE/https/cdn.discordapp.com/avatars/685274433811906581/f598bd70217add49db8d63046dc044b1.webp?width=72&height=72" width="546" alt="MasterMind" /></a>
+    <a href="https://discord.gg/qrbDHHJ"><img src="https://media.discordapp.net/attachments/696528201832464412/765278105571950592/av7_2.png?width=440&height=440" width="546" alt="MasterMind" /></a>
   </p>
   <br />
   <p>
