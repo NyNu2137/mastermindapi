@@ -10,8 +10,7 @@
   </p>
 </div>
 [ENG]
-MasterMind is an Anime/Hentai Image API which simplifies how you fetch random images from the local JSON! More features and functions will be added soon !
-[Pl]
+MasterMind is an Anime/Hentai Image API which simplifies how you fetch random images from the local JSON! More features and functions will be added soon !<br>[Pl]
 MasterMind to Anime/Hentai/NSFW api do zdjęć które w prosty sposób pozyskuje zdjęcia z lokalnych plików JSON. Więcej funkcji wkrótce !
 
 [Discord Server](https://discord.gg/qrbDHHJ)
