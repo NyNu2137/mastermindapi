@@ -16,7 +16,7 @@ MasterMind to Anime/Hentai/NSFW api do zdjęć które w prosty sposób pozyskuje
 
 [Discord Server](https://discord.gg/qrbDHHJ)
 
-## Installation
+## Instalacja
 ``brak``
 
 ## Przykłady
@@ -37,7 +37,7 @@ console.log("Maid: " + mastermind.nsfw.maid());
 console.log("Hentai: " + mastermind.nsfw.hentai());
 ```
 
-## Legacy Function(s)
+## Starsze funkcje
 Przykład:
 ```javascript
 mastermind.function() // Format
